@@ -1,0 +1,41 @@
+/*.container-fluid{
+    background-color: rgb(187, 226, 226);
+    text-align: center;
+    height: 300px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 80px;
+}*/
+
+
+
+ .row{
+    width: 60%;
+    margin: auto;
+ }
+
+ .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: left;
+  
+  }
+   h2 {
+    font-weight: 400;
+  }
+  .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+
+  @media (max-width: 576px) {
+    h1{
+        
+        color: blueviolet;
+    }
+    
+    }
